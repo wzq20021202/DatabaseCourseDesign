@@ -1,0 +1,25 @@
+
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(²¶Ìëüÿÿÿÿ
+^
+java:S11920"HDefine a constant instead of duplicating this literal "message" 5 times.(˜ºüú
+_
+java:S1192"HDefine a constant instead of duplicating this literal "curPage" 3 times.(ş¡Ä
+b
+java:S1192R"LDefine a constant instead of duplicating this literal "messageList" 5 times.(òÊĞ¤
+g
+java:S1192A"LDefine a constant instead of duplicating this literal "information" 4 times.(ÇäæÛùÿÿÿÿ
+h
+java:S1192—"LDefine a constant instead of duplicating this literal "currentPage" 3 times.(ñ¿µ·ıÿÿÿÿ
+S
+java:S4973Å"<Strings and Boxed types should be compared using "equals()".(è±¬¸
+n
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(£ô»³
+n
+java:S1450"SRemove the "cunt" field and declare it as a local variable in the relevant methods.(äúÛÂùÿÿÿÿ
+N
+java:S1135“"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135¯"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135Ê"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

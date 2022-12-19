@@ -1,0 +1,29 @@
+
+m
+java:S1192?"WDefine a constant instead of duplicating this literal "/WEB-INF/jsp/login.jsp" 3 times.(Óõíè
+R
+java:S2629."7Use the built-in formatting to construct this argument.(«‹¸Åúÿÿÿÿ
+R
+java:S2629I"7Use the built-in formatting to construct this argument.(«‹¸Åúÿÿÿÿ
+h
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹Â·Š
+\
+java:S3457."AFormat specifiers should be used instead of string concatenation.(«‹¸Åúÿÿÿÿ
+|
+java:S1989:"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(æÑºÚùÿÿÿÿ
+w
+java:S1989?"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Óõíè
+\
+java:S3457I"AFormat specifiers should be used instead of string concatenation.(«‹¸Åúÿÿÿÿ
+|
+java:S1989P"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(æÑºÚùÿÿÿÿ
+w
+java:S1989X"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Óõíè
+w
+java:S1989^"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Óõíè
+z
+java:S1989e"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ
+M
+java:S1135d"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÜöÖ ûÿÿÿÿ

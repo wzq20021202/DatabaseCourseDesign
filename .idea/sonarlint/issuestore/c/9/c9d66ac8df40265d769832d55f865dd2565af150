@@ -1,0 +1,56 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÆ²É
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£»û÷
+_
+java:S1192`"JDefine a constant instead of duplicating this literal "totalPage" 3 times.(Ô±×}
+a
+java:S11924"FDefine a constant instead of duplicating this literal "count" 4 times.(îÕİòøÿÿÿÿ
+f
+java:S1192a"KDefine a constant instead of duplicating this literal "orderList" 10 times.(è×Œªşÿÿÿÿ
+`
+java:S1192g"JDefine a constant instead of duplicating this literal "add-stock" 5 times.(õ’‘—
+c
+java:S1192O"MDefine a constant instead of duplicating this literal "article-list" 6 times.(ù’ùí
+_
+java:S1192Ø"HDefine a constant instead of duplicating this literal "curPage" 6 times.(ş¡Ä
+b
+java:S1192_"LDefine a constant instead of duplicating this literal "currentPage" 9 times.(ÙµÈµ
+S
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¬Ã‹¥
+S
+java:S4973à"<Strings and Boxed types should be compared using "equals()".(¬Ã‹¥
+n
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Æ¢ÛÔ
+o
+java:S1450""TRemove the "goods" field and declare it as a local variable in the relevant methods.(±«úÿÿÿÿ
+q
+java:S1450$"[Remove the "purchaseItem" field and declare it as a local variable in the relevant methods.(Ó‰‚­
+r
+java:S1450%"\Remove the "purchaseOrder" field and declare it as a local variable in the relevant methods.(ûŸØİ
+j
+java:S1450#"TRemove the "stock" field and declare it as a local variable in the relevant methods.(İ³²ñ
+T
+java:S11174"9Rename "count" which hides the field declared at line 31.(îÕİòøÿÿÿÿ
+M
+java:S1135d"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135…"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135˜"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+D
+java:S2114½"(Remove or correct this "removeAll" call.(¾–ôšùÿÿÿÿ
+R	java:S125¾"<This block of commented-out lines of code should be removed.(´Œ­
+N
+java:S1135Ü"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135ù"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135•"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135¬"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135É"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135å"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

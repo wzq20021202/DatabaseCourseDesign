@@ -1,0 +1,21 @@
+
+^
+java:S1192?"HDefine a constant instead of duplicating this literal "cutPage" 5 times.(İÚÈë
+b
+java:S1192="LDefine a constant instead of duplicating this literal "returnsList" 5 times.(Ş¡õ¯
+^
+java:S1192l"HDefine a constant instead of duplicating this literal "curPage" 3 times.(ş¡Ä
+a
+java:S1192B"KDefine a constant instead of duplicating this literal "salereturn" 6 times.(ğÏ¦…
+X
+java:S4973¢"<Strings and Boxed types should be compared using "equals()".(â®É¡ùÿÿÿÿ
+n
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(¯Èï—
+M
+java:S1135\"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+M
+java:S1135p"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135Œ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135§"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

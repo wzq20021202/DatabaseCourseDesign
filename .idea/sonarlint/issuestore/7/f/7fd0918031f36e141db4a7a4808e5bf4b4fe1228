@@ -1,0 +1,38 @@
+
+^
+java:S1192Q"HDefine a constant instead of duplicating this literal "goodsId" 3 times.(ÑÇÚ“
+^
+java:S1192n"HDefine a constant instead of duplicating this literal "totPage" 3 times.(„şöÔ
+_
+java:S1192V"IDefine a constant instead of duplicating this literal "outList" 11 times.(ªÖë‘
+_
+java:S1192m"IDefine a constant instead of duplicating this literal "curPage" 15 times.(¿Âğ¶
+b
+java:S1192Ö"FDefine a constant instead of duplicating this literal "stock" 4 times.(Íìùÿÿÿÿ
+d
+java:S1192\"IDefine a constant instead of duplicating this literal "outStock" 5 times.(ÈƒêÈùÿÿÿÿ
+X
+java:S4973—"<Strings and Boxed types should be compared using "equals()".(ã×òŸûÿÿÿÿ
+X
+java:S4973ã"<Strings and Boxed types should be compared using "equals()".(ã×òŸûÿÿÿÿ
+s
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(û¡æÔüÿÿÿÿ
+o
+java:S1450"TRemove the "goods" field and declare it as a local variable in the relevant methods.(±«úÿÿÿÿ
+j
+java:S1450"TRemove the "stock" field and declare it as a local variable in the relevant methods.(İ³²ñ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ïéÿÿÿÿÿ
+U
+java:S1117Œ"9Rename "stock" which hides the field declared at line 28.(ÉİóÌıÿÿÿÿ
+N
+java:S1135å"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135œ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135±"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135Í"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135è"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

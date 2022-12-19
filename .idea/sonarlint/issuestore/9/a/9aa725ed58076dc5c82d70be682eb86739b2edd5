@@ -1,0 +1,45 @@
+
+d
+java:S1192"HDefine a constant instead of duplicating this literal "orderId" 3 times.(²–Ê³øÿÿÿÿ
+a
+java:S1192<"KDefine a constant instead of duplicating this literal "goodsList" 18 times.(¦Åÿ©
+e
+java:S1192‹"NDefine a constant instead of duplicating this literal "employee-list" 3 times.(¼ĞÍ›
+a
+java:S11929"FDefine a constant instead of duplicating this literal "couns" 9 times.(Ôá“ëÿÿÿÿÿ
+_
+java:S1192@"IDefine a constant instead of duplicating this literal "allGoods" 4 times.(¯–ÁÑ
+_
+java:S1192­"HDefine a constant instead of duplicating this literal "curPage" 9 times.(ş¡Ä
+j
+java:S1192V"ODefine a constant instead of duplicating this literal "suppliers-list" 7 times.(Áá¼ıÿÿÿÿ
+e
+java:S1192±"NDefine a constant instead of duplicating this literal "customer-list" 6 times.(îüº
+_
+java:S1192;"IDefine a constant instead of duplicating this literal "totaPage" 6 times.(î—ì
+`
+java:S1192:"JDefine a constant instead of duplicating this literal "curtPage" 15 times.(Ê„÷¤
+X
+java:S4973â"<Strings and Boxed types should be compared using "equals()".(‹±òúÿÿÿÿ
+X
+java:S4973­"<Strings and Boxed types should be compared using "equals()".(‹±òúÿÿÿÿ
+X
+java:S4973ø"<Strings and Boxed types should be compared using "equals()".(‹±òúÿÿÿÿ
+m
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(‹ÜÇ
+r
+java:S1450""WRemove the "customer" field and declare it as a local variable in the relevant methods.(íŸŞÛşÿÿÿÿ
+n
+java:S1450!"XRemove the "suppliers" field and declare it as a local variable in the relevant methods.(†¿İ
+N
+java:S1135±"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135ç"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135ü"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135²"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135Ç"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135ı"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

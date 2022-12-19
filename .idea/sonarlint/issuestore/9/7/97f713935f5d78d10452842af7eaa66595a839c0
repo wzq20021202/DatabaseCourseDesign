@@ -1,0 +1,23 @@
+
+d
+java:S1192="IDefine a constant instead of duplicating this literal "currPage" 5 times.(×Şöıÿÿÿÿ
+^
+java:S1192d"HDefine a constant instead of duplicating this literal "curPage" 3 times.(ş¡Ä
+a
+java:S1192;"KDefine a constant instead of duplicating this literal "returnList" 5 times.(¬‘Å÷
+o
+java:S1192@"TDefine a constant instead of duplicating this literal "returnPurchase-list" 6 times.(ïÉ’ışÿÿÿÿ
+S
+java:S4973š"<Strings and Boxed types should be compared using "equals()".(à¾ì
+s
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(™àÅÚøÿÿÿÿ
+r
+java:S1450"WRemove the "itemList" field and declare it as a local variable in the relevant methods.(ùƒ­™úÿÿÿÿ
+M
+java:S1135Q"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+M
+java:S1135h"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135„"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

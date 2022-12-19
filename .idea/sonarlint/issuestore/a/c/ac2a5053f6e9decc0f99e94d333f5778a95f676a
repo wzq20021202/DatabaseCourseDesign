@@ -1,0 +1,40 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ¯Üşÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³¹×†
+e
+java:S11921"ODefine a constant instead of duplicating this literal "saleorderList" 10 times.(ÏÜ‡½
+d
+java:S11920"IDefine a constant instead of duplicating this literal "ttalPage" 3 times.(š•î“ùÿÿÿÿ
+f
+java:S1192/"KDefine a constant instead of duplicating this literal "crrentPage" 3 times.( úì†ÿÿÿÿÿ
+d
+java:S1192N"NDefine a constant instead of duplicating this literal "out-salestock" 5 times.(üàÓá
+_
+java:S1192±"HDefine a constant instead of duplicating this literal "curPage" 6 times.(ş¡Ä
+h
+java:S1192¹"LDefine a constant instead of duplicating this literal "currentPage" 6 times.(ñ¿µ·ıÿÿÿÿ
+S
+java:S4973ç"<Strings and Boxed types should be compared using "equals()".(è±¬¸
+S
+java:S4973´"<Strings and Boxed types should be compared using "equals()".(è±¬¸
+n
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(ÛÆö¿
+M
+java:S11354"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+M
+java:S1135K"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+>	java:S108g")Either remove or fill this block of code.(˜–Ü¢
+N
+java:S1135µ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135Ñ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135ì"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135‚"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135¹"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

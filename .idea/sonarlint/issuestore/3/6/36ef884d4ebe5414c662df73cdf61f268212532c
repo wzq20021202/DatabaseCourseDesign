@@ -1,0 +1,7 @@
+
+r
+java:S1450"WRemove the "employee" field and declare it as a local variable in the relevant methods.(ô› şÿÿÿÿ
+q
+java:S1450"VRemove the "manager" field and declare it as a local variable in the relevant methods.(ùéáÂúÿÿÿÿ
+`
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•

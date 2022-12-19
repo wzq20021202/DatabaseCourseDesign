@@ -1,0 +1,29 @@
+
+\
+java:S1192$"FDefine a constant instead of duplicating this literal "utf-8" 4 times.( Ü«¥
+k
+java:S20959"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(ÇÙŒÕıÿÿÿÿ
+d
+java:S20956"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ú¡ì
+b
+java:S2095Q"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Õ®Ö
+u
+java:S1149("_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Áúƒ
+u
+java:S1149T"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+V	java:S125"<This block of commented-out lines of code should be removed.(æ»™Şúÿÿÿÿ
+O
+java:S4719$"9Replace charset name argument with StandardCharsets.UTF_8( Ü«¥
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(µóÜÉûÿÿÿÿ
+T
+java:S47199"9Replace charset name argument with StandardCharsets.UTF_8(ÇÙŒÕıÿÿÿÿ
+Z
+java:S2147c"DCombine this catch with the one at line 97, which has the same body.(‹±ÃÆ
+Z
+java:S2147e"DCombine this catch with the one at line 97, which has the same body.(ï­£Ä
+V	java:S125K"<This block of commented-out lines of code should be removed.(æ»™Şúÿÿÿÿ
+T
+java:S4719R"9Replace charset name argument with StandardCharsets.UTF_8(Ìûá¬øÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(†’†³ıÿÿÿÿ
+O
+java:S4719["9Replace charset name argument with StandardCharsets.UTF_8(€Ç±Ú
